@@ -7,7 +7,7 @@
   },
   {
     "remote":      "github",  
-    "repository": "Validus-Kernel/android_kernel_moto_shamu",
+    "repository": "TheRingMaster/GZR-Entropy-N6",
     "target_path": "kernel/moto/shamu",
     "branch": "mm6.0"
   }
