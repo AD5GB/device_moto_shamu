@@ -7,8 +7,8 @@
   },
   {
     "remote":      "github",  
-    "repository": "TheRingMaster/GZR-Entropy-N6",
+    "repository": "Validus-Kernel/hells-Core-N6",
     "target_path": "kernel/moto/shamu",
-    "branch": "mm6.0"
+    "branch": "marshmallow-mr1"
   }
 ]
