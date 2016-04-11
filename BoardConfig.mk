@@ -27,7 +27,7 @@ TARGET_NO_BOOTLOADER := true
 # export USE_ORACLE_JAVA := 1
 
 # Inline kernel building
-TARGET_KERNEL_CONFIG := gzr_defconfig
+TARGET_KERNEL_CONFIG := hells_defconfig
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 
