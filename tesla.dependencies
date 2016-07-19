@@ -7,8 +7,8 @@
   },
   {
     "remote":      "github",  
-    "repository": "GZR-Kernels/Shamu_Drunk_Kernel",
+    "repository": "AD5GB/wicked_kernel-N6",
     "target_path": "kernel/moto/shamu",
-    "branch": "tesla"
+    "branch": "Wicked-1"
   }
 ]
