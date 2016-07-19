@@ -30,7 +30,7 @@ GRAPHITE_OPTS := true
 ENABLE_GCCONLY := true
 
 # Inline kernel building
-TARGET_KERNEL_CONFIG := shamu_defconfig
+TARGET_KERNEL_CONFIG := wicked_n6_defconfig
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
 BOARD_KERNEL_IMAGE_NAME := zImage-dtb
 
